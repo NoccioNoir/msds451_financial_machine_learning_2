@@ -1,0 +1,1 @@
+This repository presents a Monte Carlo simulation to explore portfolio allocation strategies involving four technology stocks: GOOG, META, MSFT, and AAPL. The goal is to visualize the opportunity set under different investment strategies: long-only vs. long-and-short positions.
